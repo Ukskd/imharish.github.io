@@ -1,21 +1,25 @@
 body{
-	background-image: url(hacker-at-computer.jpg)
+	background-image: url(photo.jpg);
+	background-size: cover ;
+	width: 100%;
+	size: 100%;
 
 
 
 }
 h1{
-	color: whitesmoke;
+	color: navajowhite;
 	text-align: center;
-	border:3px solid blueviolet;
+	
+
 }
 p{
-	color: whitesmoke;
+	color: navajowhite;
 
 }
 h2{
-	color: whitesmoke;
+	color: navajowhite;
 }
 ul{
-	color: whitesmoke;
+	color: navajowhite;
 }
